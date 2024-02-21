@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasonfmorton
-- 👀 I’m interested in Cloud Security
+- 👀 I’m interested in Cloud and AI Security
 - 🌱 I’m always learning!
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ... @jasonfmorton 
 
 <!---
